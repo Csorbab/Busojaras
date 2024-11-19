@@ -29,7 +29,7 @@ img {
 	margin: 5px 15px;
 	width: 15em; 
 	background-color: white;
-	float: left;
+	float: none;
 }
 
 .balra {
@@ -69,4 +69,8 @@ a {
     margin-left: auto;
     margin-right: auto;
   }
+}
+
+.jobbra {
+	float: right;
 }
